@@ -1,2 +1,3 @@
-# ratings-distribution-analysis
-SAS categorical analysis of marginal, joint, and conditional rating distributions
+# Ratings Distribution Analysis
+
+Standalone SAS analysis. Data schema and provenance are documented in data/README.md.
